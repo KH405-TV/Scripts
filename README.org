@@ -1,0 +1,3 @@
+# Scripts
+
+Bunch of dirty scritps I use, might be merged into their own project later.
